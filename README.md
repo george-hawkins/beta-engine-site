@@ -1,3 +1,6 @@
+Setup
+-----
+
 Clone repo and create gh-pages content as per "[Creating Project Pages manually](https://help.github.com/articles/creating-project-pages-manually/)".
 
     $ git clone git@github.com:george-hawkins/beta-engine-site.git
@@ -26,3 +29,8 @@ Create CNAME DNS record (at godaddy in this case) and check changes have taken a
     $ dig www.beta-engine.net +nostats +nocomments +nocmd
 
 Changes may take some time to propagate.
+
+Favicon
+-------
+
+Created using favicon generator as per [SO](http://stackoverflow.com/a/19590415/245602).
